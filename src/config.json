@@ -1,0 +1,65 @@
+{
+  "brand": "Evergreen",
+  "mark": "✳",
+  "theme": "christmas",
+  "eyebrow": "The Christmas collection · 2026",
+  "title": "Give a little",
+  "accent": "wonder.",
+  "description": "Thoughtful gifts, candlelit evenings, and beautiful little things that make it feel like Christmas.",
+  "button": "Find their perfect gift",
+  "announcement": "Make it a season to remember",
+  "section": "Good things, beautifully given.",
+  "sub": "For the host, the homebody, and everyone you love.",
+  "feature": "Made for moments together.",
+  "featureText": "Set the table. Light the candles. Make room for the people who matter. Our collection brings a little warmth to every gathering.",
+  "products": [
+    [
+      1,
+      "The Thank You Gift Box",
+      "Gifts",
+      49,
+      69,
+      "A beautifully packed candle, linen napkins, and spice collection for your favorite host."
+    ],
+    [
+      2,
+      "Fireside Amber Candle",
+      "Home",
+      18,
+      25,
+      "A warm amber candle to bring a soft glow to winter evenings."
+    ],
+    [
+      3,
+      "Winter Stoneware Vase",
+      "Home",
+      32,
+      42,
+      "A textured sand-colored vase with dried stems for a naturally beautiful home."
+    ],
+    [
+      4,
+      "Olive Linen Napkins",
+      "Table",
+      28,
+      36,
+      "Six soft washed-linen napkins for a table worth gathering around."
+    ],
+    [
+      5,
+      "Acacia Serving Board",
+      "Table",
+      34,
+      46,
+      "A richly grained wooden board for festive bites and generous sharing."
+    ],
+    [
+      6,
+      "Autumn Spice Gift Set",
+      "Gifts",
+      22,
+      29,
+      "Four aromatic spice jars, beautifully boxed for holiday cooking."
+    ]
+  ]
+}
