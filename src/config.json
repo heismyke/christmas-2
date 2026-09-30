@@ -2,64 +2,64 @@
   "brand": "Evergreen",
   "mark": "✳",
   "theme": "christmas",
-  "eyebrow": "The Christmas collection · 2026",
-  "title": "Give a little",
-  "accent": "wonder.",
-  "description": "Thoughtful gifts, candlelit evenings, and beautiful little things that make it feel like Christmas.",
-  "button": "Find their perfect gift",
-  "announcement": "Make it a season to remember",
-  "section": "Good things, beautifully given.",
-  "sub": "For the host, the homebody, and everyone you love.",
-  "feature": "Made for moments together.",
-  "featureText": "Set the table. Light the candles. Make room for the people who matter. Our collection brings a little warmth to every gathering.",
+  "eyebrow": "La collection de Noël · 2026",
+  "title": "Offrez un peu",
+  "accent": "de magie.",
+  "description": "Des cadeaux attentionnés, des soirées à la lueur des bougies et de jolies trouvailles pour faire entrer Noël chez vous.",
+  "button": "Trouver le cadeau idéal",
+  "announcement": "Faites de cette saison un souvenir inoubliable",
+  "section": "De belles attentions à offrir.",
+  "sub": "Pour ceux qui reçoivent, ceux qui aiment leur cocon et tous ceux que vous aimez.",
+  "feature": "Pour les moments ensemble.",
+  "featureText": "Dressez la table. Allumez les bougies. Faites une place à ceux qui comptent. Notre collection apporte une touche de chaleur à chaque réunion.",
   "products": [
     [
       1,
-      "The Thank You Gift Box",
-      "Gifts",
+      "Coffret cadeau Merci",
+      "Cadeaux",
       49,
       69,
-      "A beautifully packed candle, linen napkins, and spice collection for your favorite host."
+      "Une bougie, des serviettes en lin et une sélection d’épices, réunies dans un élégant coffret à offrir."
     ],
     [
       2,
-      "Fireside Amber Candle",
-      "Home",
+      "Bougie ambrée Au coin du feu",
+      "Maison",
       18,
       25,
-      "A warm amber candle to bring a soft glow to winter evenings."
+      "Une bougie ambrée pour illuminer les soirées d’hiver d’une douce lueur."
     ],
     [
       3,
-      "Winter Stoneware Vase",
-      "Home",
+      "Vase en grès d’hiver",
+      "Maison",
       32,
       42,
-      "A textured sand-colored vase with dried stems for a naturally beautiful home."
+      "Un vase texturé couleur sable accompagné de tiges séchées, pour une décoration naturelle."
     ],
     [
       4,
-      "Olive Linen Napkins",
+      "Serviettes en lin olive",
       "Table",
       28,
       36,
-      "Six soft washed-linen napkins for a table worth gathering around."
+      "Six serviettes en lin lavé tout doux pour une table où il fait bon se retrouver."
     ],
     [
       5,
-      "Acacia Serving Board",
+      "Planche de service en acacia",
       "Table",
       34,
       46,
-      "A richly grained wooden board for festive bites and generous sharing."
+      "Une planche en bois aux veinures généreuses, pour partager vos bouchées de fête."
     ],
     [
       6,
-      "Autumn Spice Gift Set",
-      "Gifts",
+      "Coffret d’épices d’automne",
+      "Cadeaux",
       22,
       29,
-      "Four aromatic spice jars, beautifully boxed for holiday cooking."
+      "Quatre pots d’épices parfumées dans un joli coffret pour cuisiner pendant les fêtes."
     ]
   ]
 }
